@@ -7,4 +7,4 @@ The URL is: https://factorial-api.onrender.com/
 ## API URL
 https://factorial-api.onrender.com/calc?q={input}
 ### Example
-https://factorial-api.onrender.com/calc?q=6 -> 
+https://factorial-api.onrender.com/calc?q=10 -> 

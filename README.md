@@ -6,7 +6,7 @@
 The URL is: https://factorial-api.onrender.com/
 ## API URL
 ````https://factorial-api.onrender.com/calc?q={input} ````
-### Example
+### Example:
 https://factorial-api.onrender.com/calc?q=10 –—> ````{"error":false,"input":"10","result":"3628800"}````
 
 ## Sample Code

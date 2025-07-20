@@ -13,7 +13,7 @@ https://factorial-api.onrender.com/calc?q=10 –—> ````{"error":false,"input":
 HTML
 ````
 <input id="input" type="number" placeholder="Enter a number">
-<div id="enter">Enter</div>
+<button id="enter">Enter</button>
 <br>
 <textarea readonly id="display"></textarea>
 ````
